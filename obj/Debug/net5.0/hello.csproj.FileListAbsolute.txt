@@ -1,0 +1,16 @@
+/run/media/LVH/Work/dev/hello/bin/Debug/net5.0/hello
+/run/media/LVH/Work/dev/hello/bin/Debug/net5.0/hello.deps.json
+/run/media/LVH/Work/dev/hello/bin/Debug/net5.0/hello.runtimeconfig.json
+/run/media/LVH/Work/dev/hello/bin/Debug/net5.0/hello.runtimeconfig.dev.json
+/run/media/LVH/Work/dev/hello/bin/Debug/net5.0/hello.dll
+/run/media/LVH/Work/dev/hello/bin/Debug/net5.0/ref/hello.dll
+/run/media/LVH/Work/dev/hello/bin/Debug/net5.0/hello.pdb
+/run/media/LVH/Work/dev/hello/obj/Debug/net5.0/hello.csprojAssemblyReference.cache
+/run/media/LVH/Work/dev/hello/obj/Debug/net5.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/LVH/Work/dev/hello/obj/Debug/net5.0/hello.AssemblyInfoInputs.cache
+/run/media/LVH/Work/dev/hello/obj/Debug/net5.0/hello.AssemblyInfo.cs
+/run/media/LVH/Work/dev/hello/obj/Debug/net5.0/hello.csproj.CoreCompileInputs.cache
+/run/media/LVH/Work/dev/hello/obj/Debug/net5.0/hello.dll
+/run/media/LVH/Work/dev/hello/obj/Debug/net5.0/ref/hello.dll
+/run/media/LVH/Work/dev/hello/obj/Debug/net5.0/hello.pdb
+/run/media/LVH/Work/dev/hello/obj/Debug/net5.0/hello.genruntimeconfig.cache
