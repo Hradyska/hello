@@ -20,8 +20,7 @@ namespace hello
             {
                 byte[] array = System.Text.Encoding.Default.GetBytes(text);
                 // асинхронная запись массива байтов в файл
-                await fstream.WriteAsync(array, 0, array.Length);
-                Console.WriteLine("Текст записан в файл");
+                
             }
 	
         }
