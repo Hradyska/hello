@@ -15,7 +15,7 @@ namespace hello
             {
                 dirInfo.Create();
             }
-            string text ="Hello!";      
+            string text ="Hello, txt!";      
             using (FileStream fstream = new FileStream($"{path}\note.txt", FileMode.OpenOrCreate))
             {
                 byte[] array = System.Text.Encoding.Default.GetBytes(text);
